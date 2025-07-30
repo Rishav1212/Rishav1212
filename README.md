@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with developers world wide to learn something new and explore more.
 - 📫 How to reach me ... Instagram: www.instagram.com/__tintin____/
                           Email: rishavchakraborty02@gmail.com
+                          LinkedIn: www.linkedin.com/rishavchakraborty02/
 
 <!---
 Rishav1212/Rishav1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
